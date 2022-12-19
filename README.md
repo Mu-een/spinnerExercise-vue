@@ -1,5 +1,5 @@
 # spinnerexercise
-put ! in front of v-if="engines.length" (on Products components)
+put ! in front of engines in (v-if="engines.length") (on Products components)
 ## Project setup
 ```
 npm install
